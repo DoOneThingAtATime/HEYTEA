@@ -27,3 +27,7 @@ fn();
 $(window).scroll(function() {
   fn();
 });
+
+$(document).ready(function() {
+  $("#nav").onePageNav();
+});

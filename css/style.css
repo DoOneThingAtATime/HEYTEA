@@ -26,6 +26,10 @@ header .innerBox .navList li {
   color: #fff;
   font-size: 18px;
   font-family: "wenyue";
+  cursor: pointer;
+}
+header .innerBox .navList li:hover {
+  color: #ccc;
 }
 header .innerBox .seting {
   height: 80px;
